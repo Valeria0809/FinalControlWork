@@ -1,3 +1,2 @@
 **БЛОК_СХЕМА**
-![Block diagram](1.jpg)
-
+![block diagramm](1.jpg)
